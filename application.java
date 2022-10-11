@@ -31,5 +31,8 @@
 		printOne();
 		printOne();
 	}
+bye ok
+}
+
 ok bye
 }
